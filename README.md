@@ -1,6 +1,4 @@
-Here is a `README.md` file based on your requirements:
 
-```markdown
 # AI Bot Project
 
 ## Overview
@@ -49,7 +47,6 @@ This project is licensed under the [Your License Name] License. See the [LICENSE
 
 For any questions or issues, please contact Rishi Kumar at [your.email@example.com].
 
-```
 
 ### Instructions for Customization:
 1. **Project Name**: Replace with the name of your AI bot project.
