@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is an AI bot that interacts with users and provides responses based on the input text. This is the initial version of the bot, and future improvements will be made to enhance its capabilities.
+This project is an AI bot that interacts with users and provides responses based on the real time question. This is the initial version of the bot, and future improvements will be made to enhance its capabilities.
 
 ## Setup Instructions
 
