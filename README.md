@@ -41,7 +41,7 @@ We welcome contributions to improve this project! If you wish to contribute, ple
 
 ## Contact
 
-For any questions or issues, please contact Rishi Kumar at [rishik.8102001@gmail.com].
+For any questions or issues, please contact me Kumar at [rishik.8102001@gmail.com].
 
 
 ### Instructions for Customization:
